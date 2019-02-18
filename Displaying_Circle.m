@@ -1,3 +1,4 @@
+%@author: Madeline Shao
 try
     clear all; close all
     %% Load Screen
